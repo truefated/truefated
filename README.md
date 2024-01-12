@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+Brunno+:D)](https://git.io/typing-svg)
 <p align="center">
 I'm a {backend, frontend} developer.
-I am currently a student of programming, I am interested in learning more and improving my knowledge in the area, my alternative account github [Crynew](https://github.com/crynew/).
+I am currently a student of programming, I am interested in learning more and improving my knowledge in the area, my alternative account github <a href="https://github.com/crynew/">Crynew</a>.
 <br><br>
 <a href="https://discord.com/users/73598582153805824" target="_blank">
 <img width="45%" src="https://lanyard.cnrad.dev/api/73598582153805824?theme=dark&bg=151515&borderRadius=5px" alt="Discord"/>
